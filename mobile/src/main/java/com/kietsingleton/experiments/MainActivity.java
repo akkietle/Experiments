@@ -3,6 +3,9 @@ package com.kietsingleton.experiments;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
@@ -25,6 +28,8 @@ import android.widget.Toast;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.GoogleApiClient;
+
+import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,
@@ -77,7 +82,7 @@ public class MainActivity extends AppCompatActivity
         mIsSignedIn = prefs.getBoolean("PREFS_USER_SIGNED_IN", false);
 
 
-        mUserImage = (ImageView) header.findViewById(R.id.loginImageView);
+        mUserImage = (ImageView) header.findViewById(R.id.nav_userImageView);
         mUserImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -86,9 +91,13 @@ public class MainActivity extends AppCompatActivity
                 startActivityForResult(intent, RC_SIGN_IN);
             }
         });
+        if (prefs.getString(LoginActivity.PREFERENCES.USER_PHOTO_URL, null) != null)
+            new DownloadImageTask(mUserImage).execute(prefs.getString(LoginActivity.PREFERENCES.USER_PHOTO_URL, ""));
+        else
+            mUserImage.setImageResource(R.mipmap.ic_launcher);
 
         if (mIsSignedIn) {
-            mUserName = (TextView) header.findViewById(R.id.nav_nameTextView);
+            mUserName = (TextView) header.findViewById(R.id.nav_userTextView);
             mUserName.setText(prefs.getString("PREFS_USER_NAME", ""));
             mUserName.setOnTouchListener(new View.OnTouchListener() {
                 @Override
@@ -116,6 +125,10 @@ public class MainActivity extends AppCompatActivity
             SharedPreferences prefs = getSharedPreferences(LoginActivity.PREFERENCES.KEY, Context.MODE_PRIVATE);
             mUserEmail.setText(prefs.getString(LoginActivity.PREFERENCES.USER_EMAIL, ""));
             mUserName.setText(prefs.getString(LoginActivity.PREFERENCES.USER_NAME, ""));
+            if (prefs.getString(LoginActivity.PREFERENCES.USER_PHOTO_URL, null) != null)
+                new DownloadImageTask(mUserImage).execute(prefs.getString(LoginActivity.PREFERENCES.USER_PHOTO_URL, ""));
+            else
+                mUserImage.setImageResource(R.mipmap.ic_launcher);
         }
     }
 
@@ -177,5 +190,30 @@ public class MainActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    // AsyncTask to download image from URL in background
+    private class DownloadImageTask extends AsyncTask<String, Void, Bitmap> {
+        private ImageView mImage;
+
+        public DownloadImageTask(ImageView imageView) {
+            mImage = imageView;
+        }
+
+        protected Bitmap doInBackground(String... urls) {
+            String url = urls[0];
+            Bitmap bitmap = null;
+            try {
+                InputStream in = new java.net.URL(url).openStream();
+                bitmap = BitmapFactory.decodeStream(in);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            return bitmap;
+        }
+
+        protected void onPostExecute(Bitmap result) {
+            mImage.setImageBitmap(result);
+        }
     }
 }

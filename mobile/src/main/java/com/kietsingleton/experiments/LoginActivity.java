@@ -125,9 +125,19 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
         final SharedPreferences prefs = getSharedPreferences(PREFERENCES.KEY, Context.MODE_PRIVATE);
 
-        SignInButton signInButton = (SignInButton) findViewById(R.id.nav_google_signin);
+        final SignInButton signInButton = (SignInButton) findViewById(R.id.login_google_signin);
         signInButton.setSize(SignInButton.SIZE_STANDARD);
         signInButton.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                signInWithGoogleIntent();
+            }
+        });
+        final Button signOutButton = (Button) findViewById(R.id.login_google_signout);
+        final TextView name = (TextView) findViewById(R.id.usernameTextView);
+        final TextView email = (TextView) findViewById(R.id.emailTextView);
+
+        signOutButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (mGoogleApiClient.isConnected()) {
@@ -135,21 +145,26 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                         @Override
                         public void onResult(@NonNull Status status) {
                             Log.i(TAG, "Sign out = " + status.getStatusCode());
-                            prefs.edit().putString(PREFERENCES.USER_NAME, "");
-                            prefs.edit().putString(PREFERENCES.USER_PHOTO_URL, "");
-                            prefs.edit().putString(PREFERENCES.USER_EMAIL, "");
-                            prefs.edit().putBoolean(PREFERENCES.USER_SIGNED_IN, false).commit();
+                            prefs.edit().putString(PREFERENCES.USER_NAME, null);
+                            prefs.edit().putString(PREFERENCES.USER_PHOTO_URL, null);
+                            prefs.edit().putString(PREFERENCES.USER_EMAIL, null);
+                            prefs.edit().putBoolean(PREFERENCES.USER_SIGNED_IN, false);
+                            prefs.edit().commit();
                         }
                     });
                     mGoogleApiClient.disconnect();
+                    signInButton.setVisibility(View.VISIBLE);
+                    signOutButton.setVisibility(View.GONE);
+                    name.setVisibility(View.GONE);
+                    email.setVisibility(View.GONE);
                     Toast.makeText(getApplicationContext(), "Signed out", Toast.LENGTH_SHORT).show();
-                } else
-                    signInWithGoogleIntent();
+                }
             }
         });
 
-        TextView name = (TextView) findViewById(R.id.nav_nameTextView);
-        TextView email = (TextView) findViewById(R.id.nav_emailTextView);
+        signInButton.setVisibility(prefs.getBoolean(PREFERENCES.USER_SIGNED_IN, false) ? View.GONE : View.VISIBLE);
+        signOutButton.setVisibility(prefs.getBoolean(PREFERENCES.USER_SIGNED_IN, false) ? View.VISIBLE : View.GONE);
+
         name.setText(prefs.getString(PREFERENCES.USER_NAME, ""));
         email.setText(prefs.getString(PREFERENCES.USER_EMAIL, ""));
 
@@ -186,23 +201,22 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         SharedPreferences.Editor editor = prefs.edit();
         if (result.isSuccess()) {
             GoogleSignInAccount account = result.getSignInAccount();
-//            finish();
-            TextView name = (TextView) findViewById(R.id.nav_nameTextView);
-            TextView email = (TextView) findViewById(R.id.nav_emailTextView);
+            TextView name = (TextView) findViewById(R.id.usernameTextView);
+            TextView email = (TextView) findViewById(R.id.emailTextView);
             name.setText(account.getDisplayName());
             email.setText(account.getEmail());
             name.setVisibility(View.VISIBLE);
             email.setVisibility(View.VISIBLE);
-//            SignInButton signInButton = (SignInButton) findViewById(R.id.nav_google_signin);
-//            signInButton.setVisibility(View.GONE);
 
-            editor.putBoolean("PREFS_USER_SIGNED_IN", true);
-            editor.putString("PREFS_USER_EMAIL", account.getEmail());
-            editor.putString("PREFS_USER_NAME", account.getDisplayName());
-            if (account.getPhotoUrl() != null)
-                editor.putString("PREFS_USER_PHOTO_URL", account.getPhotoUrl().toString());
+            editor.putBoolean(PREFERENCES.USER_SIGNED_IN, true);
+            editor.putString(PREFERENCES.USER_EMAIL, account.getEmail());
+            editor.putString(PREFERENCES.USER_NAME, account.getDisplayName());
+            if (account.getPhotoUrl() == null)
+                editor.putString(PREFERENCES.USER_PHOTO_URL, null);
+            else editor.putString(PREFERENCES.USER_PHOTO_URL, account.getPhotoUrl().toString());
 
             editor.commit();
+            finish();
         } else {
             Toast.makeText(getApplicationContext(), "Status Code: " + result.getStatus().getStatusCode(), Toast.LENGTH_LONG).show();
 

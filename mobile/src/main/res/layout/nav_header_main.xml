@@ -21,14 +21,14 @@
     <!--/>-->
 
     <ImageView
-        android:id="@+id/loginImageView"
+        android:id="@+id/nav_userImageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <TextView
-        android:id="@+id/nav_nameTextView"
+        android:id="@+id/nav_userTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"

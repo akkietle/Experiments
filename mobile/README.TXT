@@ -1,4 +1,4 @@
-1. Copy you google-services.json here. Sensitive files will be ignore from git so that it doesn't publish on gitHub.
+1. Copy your google-services.json here. Sensitive files will be ignore from git so that they don't get publish on gitHub.
 
 
 
