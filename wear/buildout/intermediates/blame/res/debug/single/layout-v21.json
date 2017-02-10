@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout-v21\\overlay_confirmation.xml"
+    }
+]

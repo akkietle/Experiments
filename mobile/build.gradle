@@ -14,15 +14,23 @@ android {
     }
     buildTypes {
         release {
+            shrinkResources true
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+        debug {
+            jniDebuggable = true
+        }
     }
+
+    productFlavors {
+        noExtensions
+        withExtensions
+    }
+
 }
 
 dependencies {
-
-
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
@@ -35,6 +43,13 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile 'com.google.firebase:firebase-core:9.0.2'
+
+    compile project(':library')
+    withExtensionsCompile project(path: ':extension-ffmpeg')
+    withExtensionsCompile project(path: ':extension-flac')
+    withExtensionsCompile project(path: ':extension-opus')
+    withExtensionsCompile project(path: ':extension-vp9')
+
 }
 
 apply plugin: 'com.google.gms.google-services'

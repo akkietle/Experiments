@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.google.android.support:wearable:2.0.0-beta2] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-beta2\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\percent\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:14:9-59
+uses-library#com.google.android.wearable
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:15:9-17:40
+	android:required
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:16:13-55
+activity#com.kietsingleton.experiments.MainActivity
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-beta2] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-beta2\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\percent\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kiet\dev\Experiments\wear\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Kiet\dev\Experiments\wear\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:20-65

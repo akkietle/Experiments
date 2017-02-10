@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Experiments.iml" filepath="$PROJECT_DIR$/Experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" filepath="$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/flac/extension-flac.iml" filepath="$PROJECT_DIR$/extensions/flac/extension-flac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" filepath="$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/opus/extension-opus.iml" filepath="$PROJECT_DIR$/extensions/opus/extension-opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" filepath="$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playbacktests/playbacktests.iml" filepath="$PROJECT_DIR$/playbacktests/playbacktests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testutils/testutils.iml" filepath="$PROJECT_DIR$/testutils/testutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/tv/tv.iml" filepath="$PROJECT_DIR$/tv/tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
     </modules>

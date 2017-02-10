@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_81bb85ccb1bd120c25c93944973363003ac9277a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_44e32e13e392b0770f968a3da531741f1ca8becf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-v4-25.1.1_45ebe3a77bea22b83e8c771e3bea23b61ff8c94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_53ef6824d4cc845349df455a286d0aae5f4ff884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f2f18f0905b3aad0b6076b8cfa2608d596c0a70b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_de3b0de5318523fe3f31bc20760ebddc49083bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_40afbfb8e53124504909929fae91340baf37e327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_99758abcce6fad1684de21e39cdd42b3e2b4f780\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_00c37f74b20fb74c5d07910ef30f41ab555273d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-compat-25.1.1_0aab92ee5e069f80a89a365c2fcfd8764daaec4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_2d4818c5b483844ff3eb4495d5ca05747c368399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_4f7786015dac09bdca895ef26cea96cc9fd2ada4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_ffd23d38a2395fd34d55c60b5b44499008d78d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_90d2fe756a1171282e9dd7d947042507e5d10313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_7a0cdb8d13aa4d5072fa9cc2be3dadc37476674a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_4309ee85b490a9c5df8510f9f2a43762b4577f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\incremental-runtime-classes\noExtensions\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0374bd76f7a6e7d521a4c31df3a7b2830edcedd6">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\instant-run_592c2a464edd8c903f938055d3c85de373b0c97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_b4bb457dc404be2ed56884bab831d2d39760b016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\internal_impl-24.0.0_e2ccc3077bb1d3c8dfb8da2b3d11b20b18832f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_1e0f758c3a57fe810cd89d689650b325e05bd6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_acfb714065b88ed80b24119a8fbaed15d188d0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_a3ebf4365c37c91667b9af79612446ad6433d320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_dc020e7b473896187cd43f8d579a7c25364d03c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_2ce6ad98cb2451da98594a83a8a6c8c08537d62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_cc4f0436f171f1695ce8322cd39c2224ae62dda6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_04594330575a793e06a1aa6929b9a6329bc53ff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_29cf10ee0e93eefd6c14b142694705845fb9392b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_439200477b880951e764f3748334f49f894a2f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-transition-25.1.1_d9206174b5320263e961f8f5cd1175203feda048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d43cae1aadf984ba297320214603f0517d000097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_f0439f0829e1a51fbe4423bb94cb58e1096309c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_8f1f154a325a043cf1a3413e59921ce1672ff8d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b36f7375a52475b6960b2e1d4dd180bc91e008f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_7f96363da79aa82f369e4d6ca14809f70273211f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_b5a287e18be0271635317a8da6d58feed34db3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_73f8017d7e7fca1f3d7412b4964a21b760ec879d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_735aca592032197e3089514900c9f8162cd214c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_70d3bd13c76bd1f393b1bd8a390d4a91cb84bd10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_9b892181f32cdcaecad19f8638816cb5799cea27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_1351d08004a139e53f2545f132527ab6903c188c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_bc797963ed5364849237b648fea1efb0e845f54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\support-annotations-25.1.1_305be5af922cd3945a17fcc38df64c3f7d9293f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_d17b387a72044a38b00ccde22443b43ddd59f36c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_117b59a136e2fde62b24bb15a37c230592f2e094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_4f41476ced10d894262e4e1f7b71804b49745de1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_f44f679c05e1e0438319e2cac7d8cce45df30e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\incremental-classes\noExtensions\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e777ff263e55b6452c112963d8b6262394ea2f1">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\instant-run-bootstrap_cf32f0751dc2e667f58ad2f35f5b2ae6659bac61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_a419c3ce9504c75496806e3d7ecc346589ace092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_9214c40e8a6a32c4bd085b5bd7a9abea6d194f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_47f932e01e5bbf3f8ec030b9e3e8ae89c8e86a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_540935f9a7eb40494c43fc805b265bc3163d0242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_25bad084620d8289425b3054cbf5494c84297904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_0ce428000205f742376895d1fc012f489562587a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_90d15a4c1dd26839af8231722fc897519e252d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_22d7dcd83378744e5acde0cf948eb5d9c10efcf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_ea5998d3bcb184f449a6bd89d294c83eb1049f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_bb9b331abd34136daf797df1c7c4298220e8b412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-design-25.1.1_fd96e834f278571474121644db391d10faf36c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_32fbea23c412d2ecfba40a5be822d00cf77974ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_129e9c8c9ec2ce2000d2b3ac8e27bdea1e5ecc78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_83b6eeae63022aff0b5decea5b24a61a5f6ecaec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_764cebfe14fbb2c79839ac86d01f6f0663e94c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_34ec8f5973bec28ec5094a07761f11c06ca2dc16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_5e5c731062d2923cea56db42b771c9f03f583fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_c86310b5088f814b261acbe93f347ecd725555d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Kiet\dev\Experiments\mobile\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_4785e1e5963d072d0456c4822cb2aee3f8d15773\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\anim-v21\\generic_confirmation_icon_animation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\anim-v21\\generic_confirmation_icon_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\anim-v21\\generic_confirmation_generic_confirmation_animation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\anim-v21\\generic_confirmation_generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\anim-v21\\open_on_phone_arrow_animation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\anim-v21\\open_on_phone_arrow_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\anim-v21\\open_on_phone_path_2_animation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\anim-v21\\open_on_phone_path_2_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\anim-v21\\open_on_phone_path_1_animation.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\anim-v21\\open_on_phone_path_1_animation.xml"
+    }
+]

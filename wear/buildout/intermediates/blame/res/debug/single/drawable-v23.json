@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\drawable-v23\\ic_expand_less_white_22.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\drawable-v23\\ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\drawable-v23\\action_item_background.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\drawable-v23\\action_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\drawable-v23\\action_item_icon_background.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\drawable-v23\\action_item_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\drawable-v23\\ic_more_horiz_24dp_wht.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\drawable-v23\\ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\drawable-v23\\ic_more_vert_24dp_wht.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\drawable-v23\\ic_more_vert_24dp_wht.xml"
+    }
+]

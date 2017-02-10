@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\raw\\lb_voice_success.ogg"
+    }
+]

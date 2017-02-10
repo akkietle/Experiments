@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\flac\\buildout\\intermediates\\res\\merged\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\flac\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\flac\\buildout\\intermediates\\res\\merged\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\flac\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\layout\\exo_playback_control_view.xml"
+    }
+]

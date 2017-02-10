@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\mobile\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\mobile\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

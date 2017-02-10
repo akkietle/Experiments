@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_icon.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\star_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon_quantum_card.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\app_icon_quantum_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scrubber_pressed.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\scrubber_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon_quantum.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\app_icon_quantum.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videos_by_google_icon.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\videos_by_google_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videos_by_google_banner.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\videos_by_google_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scrubber_focussed.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\scrubber_focussed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_bg.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_background_default.9.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\card_background_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shadow7.9.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\shadow7.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scrubber_disabled.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\scrubber_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\movie.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\movie.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scrubber_normal.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-hdpi\\scrubber_normal.png"
+    }
+]

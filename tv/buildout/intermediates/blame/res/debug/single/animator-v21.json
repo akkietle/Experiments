@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    }
+]

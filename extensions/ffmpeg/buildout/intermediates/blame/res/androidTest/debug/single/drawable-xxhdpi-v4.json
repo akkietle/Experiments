@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\extensions\\ffmpeg\\buildout\\intermediates\\exploded-aar\\Experiments\\library\\unspecified\\res\\drawable-xxhdpi-v4\\exo_controls_play.png"
+    }
+]

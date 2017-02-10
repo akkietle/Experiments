@@ -1,0 +1,7 @@
+#Thu Feb 09 20:02:14 PST 2017
+base.0=C\:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10\\instant-run_592c2a464edd8c903f938055d3c85de373b0c97a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf32f0751dc2e667f58ad2f35f5b2ae6659bac61\\classes.dex
+base.1=C\:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf32f0751dc2e667f58ad2f35f5b2ae6659bac61
+file.0=C\:\\Users\\Kiet\\dev\\Experiments\\mobile\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10\\instant-run_592c2a464edd8c903f938055d3c85de373b0c97a\\classes.dex

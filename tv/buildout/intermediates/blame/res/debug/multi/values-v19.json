@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.1.1\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    }
+]

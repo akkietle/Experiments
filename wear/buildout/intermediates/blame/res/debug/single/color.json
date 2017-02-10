@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\color\\card_text_color.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\color\\circular_button.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\color\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\color\\card_grey_text_color.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\color\\card_grey_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

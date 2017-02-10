@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_4_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_view.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\navigation_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_5_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_3_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_peek_view.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_2_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_item_view.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_7_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_6_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\single_page_nav_drawer_1_item.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\wear\\buildout\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-beta2\\res\\layout\\alert_dialog_wearable.xml"
+    }
+]

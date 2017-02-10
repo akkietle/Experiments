@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\videos_by_google_banner.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-xxhdpi\\videos_by_google_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\videos_by_google_icon.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-xxhdpi\\videos_by_google_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_icon_quantum_card.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-xxhdpi\\app_icon_quantum_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_icon_quantum.png",
+        "source": "C:\\Users\\Kiet\\dev\\Experiments\\tv\\src\\main\\res\\drawable-xxhdpi\\app_icon_quantum.png"
+    }
+]
